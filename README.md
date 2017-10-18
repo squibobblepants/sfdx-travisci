@@ -13,7 +13,7 @@ If any any of these assumptions aren't true, the following steps won't work.
 
 ## Getting Started
 
-0) Before you start, BE WARNED. On Windows there seems to be an issue with Travis and the encryption of environment variables. Due to this, I had to use Bash On Ubuntu On Windows to do the setting of the encrypted environment variables, which might not be agreeable to everyone. There are probably other workarounds available, but this was the first one that I found that worked and I already had Bash installed.
+0) Before you start, PLEASE BE WARNED. On Windows there seems to be an issue with Travis and the encryption of environment variables. Due to this, I had to use Bash On Ubuntu On Windows to do the setting of the encrypted environment variables, which might not be agreeable to everyone. There are probably other workarounds available, but this was the first one that I found that worked and I already had Bash installed.
 
 1) Make sure you have the Salesforce CLI installed. Check by running `sfdx force --help` and confirm you see the command output. If you don't have it installed you can download and install it from [here](https://developer.salesforce.com/tools/sfdxcli).
 
